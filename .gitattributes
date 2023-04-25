@@ -5,6 +5,8 @@
 # to native line endings on checkout.
 
 # Declare files that will always have LF line endings on checkout.
+
+# i want to add some thing here
 *.c text eol=lf
 *.css text eol=lf
 *.cpp text eol=lf
